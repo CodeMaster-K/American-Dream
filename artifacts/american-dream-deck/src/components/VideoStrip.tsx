@@ -10,7 +10,7 @@ export default function VideoStrip() {
         <div className="max-w-4xl mx-auto relative rounded-sm overflow-hidden p-1 bg-gradient-to-r from-primary/20 via-primary/50 to-primary/20">
           <div className="relative aspect-video w-full bg-black">
             <iframe 
-              src="https://www.youtube.com/embed/aNQ7Gd8Hlb4?autoplay=1&mute=1&loop=1&playlist=aNQ7Gd8Hlb4" 
+              src="https://www.youtube.com/embed/ZsYAdM32MLw?autoplay=1&mute=1&loop=1&playlist=aNQ7Gd8Hlb4" 
               title="American Dream Experience"
               className="absolute inset-0 w-full h-full"
               allow="autoplay; encrypted-media"
