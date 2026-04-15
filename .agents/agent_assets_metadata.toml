@@ -1,5 +1,4 @@
 uploads = []
-outputs = []
 
 [[generated]]
 id = "Cib8al77ji1KfXn_JGDMp"
@@ -54,3 +53,111 @@ id = "kMf2zy3G7RabVb_nfZIOZ"
 uri = "file://artifacts/american-dream-deck/src/assets/images/aerial.png"
 type = "image"
 title = "Property aerial"
+
+[[generated]]
+id = "Dcoa_AEB8UjY4cvxNJBdv"
+uri = "file://artifacts/american-dream-deck/src/assets/images/hero_bg.png"
+type = "image"
+title = "Aerial futuristic complex at night"
+
+[[generated]]
+id = "YL61Wm_J41isrhOesbxZl"
+uri = "file://artifacts/american-dream-deck/src/assets/images/hero_overlay.png"
+type = "image"
+title = "Abstract dark luxury background"
+
+[[generated]]
+id = "xRLfQH7XksiyyR867R2eS"
+uri = "file://artifacts/american-dream-deck/src/assets/images/why_aerial.png"
+type = "image"
+title = "Aerial mega-complex at sunset"
+
+[[generated]]
+id = "NYOaWDqnGcaRdzNffjX1y"
+uri = "file://artifacts/american-dream-deck/src/assets/images/retail_corridor.png"
+type = "image"
+title = "Premium retail corridor with shoppers"
+
+[[generated]]
+id = "VOeBESuJ4iNkauP99Cgt1"
+uri = "file://artifacts/american-dream-deck/src/assets/images/retail_flagship.png"
+type = "image"
+title = "Dramatic flagship store interior"
+
+[[generated]]
+id = "tedl8rYWbG3dIrJdL74cB"
+uri = "file://artifacts/american-dream-deck/src/assets/images/luxury_interior.png"
+type = "image"
+title = "Luxury boutique interior with gold"
+
+[[generated]]
+id = "GRwrIxvJsGrTU5NPR6PfA"
+uri = "file://artifacts/american-dream-deck/src/assets/images/luxury_hall.png"
+type = "image"
+title = "Elegant luxury mall wing"
+
+[[generated]]
+id = "fiKnh0h4zlBJ9jzJVj8F1"
+uri = "file://artifacts/american-dream-deck/src/assets/images/dining_waterway.png"
+type = "image"
+title = "Indoor canal dining experience"
+
+[[generated]]
+id = "Lj-F2EDr8TVGlOqrhkvUG"
+uri = "file://artifacts/american-dream-deck/src/assets/images/dining_foodhall.png"
+type = "image"
+title = "Modern diverse food hall"
+
+[[generated]]
+id = "SxbWkUMK7cR5CPWpBUCPN"
+uri = "file://artifacts/american-dream-deck/src/assets/images/entertainment_themepark.png"
+type = "image"
+title = "Massive indoor theme park"
+
+[[outputs]]
+id = "mXdGfaZE2RUs0p-NgP8Ra"
+uri = "file://artifacts/american-dream-deck/src/assets/images/entertainment_waterpark.png"
+type = "image"
+title = "indoor water park with slides"
+
+[[outputs]]
+id = "83MRjyE4RPw4thQdqqTOQ"
+uri = "file://artifacts/american-dream-deck/src/assets/images/entertainment_ski.png"
+type = "image"
+title = "indoor ski slope with snow"
+
+[[outputs]]
+id = "gEtUR8HC4MOzE2L1kifWk"
+uri = "file://artifacts/american-dream-deck/src/assets/images/entertainment_aquarium.png"
+type = "image"
+title = "aquarium ocean tunnel fish"
+
+[[outputs]]
+id = "z_5u7c8pSwzbzMGz5JYlQ"
+uri = "file://artifacts/american-dream-deck/src/assets/images/events_concert.png"
+type = "image"
+title = "packed concert venue with lights"
+
+[[outputs]]
+id = "wvhj9zRKBSC_jWFOEAPSr"
+uri = "file://artifacts/american-dream-deck/src/assets/images/events_activation.png"
+type = "image"
+title = "corporate event brand activation"
+
+[[outputs]]
+id = "b9rLrr1SQZt4NoBssugV4"
+uri = "file://artifacts/american-dream-deck/src/assets/images/events_theater.png"
+type = "image"
+title = "grand performing arts theater interior"
+
+[[outputs]]
+id = "tjDwWp8M2ILSbBW_ZTtqZ"
+uri = "file://artifacts/american-dream-deck/src/assets/images/sponsorship_activation.png"
+type = "image"
+title = "high impact experiential pop up booth"
+
+[[outputs]]
+id = "6m1XbFcuO9yEU_TzobYwm"
+uri = "file://artifacts/american-dream-deck/src/assets/images/contact_bg.png"
+type = "image"
+title = "dark minimalist cinematic background"

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { Switch, Route, Router as WouterRouter } from "wouter";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "@/components/ui/toaster";
@@ -8,11 +8,13 @@ import NotFound from "@/pages/not-found";
 import NavBar from "@/components/NavBar";
 import Hero from "@/components/sections/Hero";
 import Why from "@/components/sections/Why";
+import StatsTicker from "@/components/StatsTicker";
 import Retail from "@/components/sections/Retail";
 import Luxury from "@/components/sections/Luxury";
 import Dining from "@/components/sections/Dining";
 import Entertainment from "@/components/sections/Entertainment";
 import Events from "@/components/sections/Events";
+import VideoStrip from "@/components/VideoStrip";
 import Sponsorship from "@/components/sections/Sponsorship";
 import Leasing from "@/components/sections/Leasing";
 import Contact from "@/components/sections/Contact";
@@ -26,11 +28,13 @@ function MainDeck() {
       <main>
         <Hero />
         <Why />
+        <StatsTicker />
         <Retail />
         <Luxury />
         <Dining />
         <Entertainment />
         <Events />
+        <VideoStrip />
         <Sponsorship />
         <Leasing />
         <Contact />
