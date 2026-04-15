@@ -57,6 +57,13 @@ export default defineConfig({
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
+    sourcemap: false,
+    esbuild: {
+      logLevel: "warning",
+      logOverride: {
+        "default-config-json-error": "silent",
+      },
+    },
   },
   server: {
     port,
