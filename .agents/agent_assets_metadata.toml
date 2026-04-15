@@ -1,0 +1,56 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Cib8al77ji1KfXn_JGDMp"
+uri = "file://artifacts/american-dream-deck/src/assets/images/hero.png"
+type = "image"
+title = "Hero cinematic aerial view"
+
+[[generated]]
+id = "NDC5ZkRM6ySyqrRwqoQ8-"
+uri = "file://artifacts/american-dream-deck/src/assets/images/luxury.png"
+type = "image"
+title = "Luxury retail interior"
+
+[[generated]]
+id = "q3a0Fg1ih0WIyDxENKtKA"
+uri = "file://artifacts/american-dream-deck/src/assets/images/retail.png"
+type = "image"
+title = "Retail corridor"
+
+[[generated]]
+id = "pmckD0Mp1b7uuQlHWQa0E"
+uri = "file://artifacts/american-dream-deck/src/assets/images/themepark.png"
+type = "image"
+title = "Indoor theme park"
+
+[[generated]]
+id = "xmxJTkTxza9k0BLGVjMYg"
+uri = "file://artifacts/american-dream-deck/src/assets/images/waterpark.png"
+type = "image"
+title = "Water park"
+
+[[generated]]
+id = "5_bB2LZecIT_g8jbOFhIW"
+uri = "file://artifacts/american-dream-deck/src/assets/images/skislope.png"
+type = "image"
+title = "Indoor ski slope"
+
+[[generated]]
+id = "FrRzD3thvlJXucrnEnlFm"
+uri = "file://artifacts/american-dream-deck/src/assets/images/events.png"
+type = "image"
+title = "Events venue"
+
+[[generated]]
+id = "vTAXPvucGFYmDb5IIex_c"
+uri = "file://artifacts/american-dream-deck/src/assets/images/dining.png"
+type = "image"
+title = "Fine dining restaurant"
+
+[[generated]]
+id = "kMf2zy3G7RabVb_nfZIOZ"
+uri = "file://artifacts/american-dream-deck/src/assets/images/aerial.png"
+type = "image"
+title = "Property aerial"

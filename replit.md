@@ -25,3 +25,23 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - `pnpm --filter @workspace/api-server run dev` — run API server locally
 
 See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details.
+
+## Artifacts
+
+### American Dream Sales Deck (`artifacts/american-dream-deck`)
+- **Type**: react-vite, previewPath: `/`
+- **Purpose**: Immersive, cinematic interactive sales deck for American Dream Mall (East Rutherford, NJ)
+- **Audience**: Retail tenants, corporate sponsors, event partners — luxury brand decision makers
+- **Architecture**: Single-page app with smooth scroll between full-screen sections + sticky nav
+- **Key Sections**: Hero, Why American Dream, Retail, Luxury Wing, Dining, Entertainment, Events, Sponsorship, Leasing, Contact
+- **Tech**: React + Framer Motion animations, Intersection Observer scroll triggers, shadcn UI
+- **Theme**: Dark luxury — deep black/navy + gold accents, cinematic typography
+- **Assets**: 9 AI-generated images for sections (hero aerial, luxury interior, theme park, water park, ski slope, etc.)
+- **No backend** — fully static, no API needed
+
+### API Server (`artifacts/api-server`)
+- Express 5 backend, serves at `/api`
+- Currently minimal — health check only
+
+### Canvas / Mockup Sandbox (`artifacts/mockup-sandbox`)
+- Design prototyping environment, serves at `/__mockup`
